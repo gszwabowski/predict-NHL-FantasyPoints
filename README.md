@@ -20,7 +20,7 @@ This GitHub repository houses Jupyter notebooks that allow for the development a
 
 ## Output
 
-Optimized fantasy lineups for a slate of games (where 9 players are selected for a lineup by position) or a single game (where 5 players are selected and positions don't matter).
+Optimized fantasy lineups for a slate of games (where 9 players are selected for a lineup by position) or a single game (where 5 players are selected and positions don't matter). The *predictions/* directory houses my player predictions for each position by date.
 
 ## Authors
 
