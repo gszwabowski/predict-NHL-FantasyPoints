@@ -8,5 +8,6 @@ lineups/
 NHL_predict_FP_getdata.ipynb
 NHL_predict_FP_getseason_data.ipynb
 NHL_predict_FP-RF.ipynb
+NHL_predict_FP-TF.ipynb
 NHL_predict_FP-makepredictions.ipynb
-*.csv
+player_stats*.csv
