@@ -9,9 +9,12 @@ This GitHub repository houses Jupyter notebooks that allow for the development a
 * *NHL_predict_FP-getdata-github.ipynb*: get fantasy scoring data from FantasyData for all NHL players for the 2016-17 season to the 2021-22 season
 * *NHL_predict_FP-ETL.ipynb*: extract, transform, and load data. Engineers features for use in the regressor
 * *NHL_predict_FP-LGBM.ipynb*: develop LightGBM regressors for each position (C, W, D, G) to predict fantasy points
+* *NHL_predict_FP-LGBM-paramtuning.ipynb*: develop LightGBM regressors for each position (C, W, D, G) to predict fantasy points, perform model tuning
 * *NHL_predict_FP-getseason_data-github.ipynb*: get fantasy scoring data from FantasyData for all NHL players for the current season (that predictions will be made for)
 * *NHL_predict_FP-makepredictions-github.ipynb*: get recent fantasy scoring data, merge with year-to-date fantasy scoring data, perform ETL, make predictions, optimize lineups
 
+## Other Notebooks
+* *NHL_data_viz.ipynb*: correlation plots for features resulting from ETL, visualize what correlates to fantasy point scoring (added 2/6/23)
 
 ## Dependencies
 
